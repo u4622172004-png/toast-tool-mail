@@ -48,14 +48,3 @@ Il tool include le seguenti funzioni:
 6. Notifica automatica quando arriva una nuova email
 
 ---
-
-📂 Struttura del progetto
-
-toast-tool-mail
-│
-├── index.js
-├── package.json
-├── accounts.json
-└── README.md
-
----
