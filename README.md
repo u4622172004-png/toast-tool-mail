@@ -16,15 +16,15 @@ Con questo tool puoi:
 
 Clona il repository da GitHub:
 
-git clone https://github.com/u4622172004-png/toast-tool-mail
+```git clone https://github.com/u4622172004-png/toast-tool-mail```
 
 Entra nella cartella del progetto:
 
-cd toast-tool-mail
+```cd toast-tool-mail```
 
 Installa le dipendenze:
 
-npm install
+```npm install```
 
 ---
 
@@ -32,7 +32,7 @@ npm install
 
 Per avviare il programma esegui:
 
-node index.js
+```node index.js```
 
 ---
 
