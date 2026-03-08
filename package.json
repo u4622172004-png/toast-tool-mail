@@ -1,0 +1,14 @@
+{
+  "name": "toast-tool-mail",
+  "version": "1.0.0",
+  "description": "CLI tool to create and read temporary emails using mail.tm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "u4622172004-png",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
